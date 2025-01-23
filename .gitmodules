@@ -4,3 +4,6 @@
 [submodule "hypr_samples/typecraft_dotfiles"]
 	path = hypr_samples/typecraft_dotfiles
 	url = https://github.com/typecraft-dev/dotfiles
+[submodule "hypr_samples/jakoolitdots"]
+	path = hypr_samples/jakoolitdots
+	url = https://github.com/JaKooLit/Hyprland-Dots.git
