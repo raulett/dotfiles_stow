@@ -3,12 +3,12 @@
   "modules-left": ["hyprland/workspaces"],
   "modules-center": ["hyprland/window"],
   "modules-right": [
+    "tray",
     "network", 
     "pulseaudio", 
     "battery", 
     "hyprland/language",
-    "clock",
-    "tray",],
+    "clock"],
      
   "clock": {
     "format": "<span foreground='#f5c2e7'>   </span>{:%a %d %H:%M}",
